@@ -1,5 +1,7 @@
 ## Codex
 
+Note: I really like this theme and use it for my [own blog](https://blog.arushisomani.me). Working on making it prettier, more functional and faster! 🔥
+
 A minimal blog theme built for [Hugo](https://gohugo.io/) 🍜
 
 - An about page 👋🏻 and a blog 📝
